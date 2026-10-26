@@ -7,12 +7,6 @@
 </head>
 <body>
 <<<<<<< HEAD
-
-    <footer>
-        <?php
-        include 'footer.php';
-        ?>
-    </footer>
 =======
 <<<<<<< HEAD
     <h1>Weer</h1>
@@ -29,7 +23,6 @@
 
     </div>
     
-
 =======
     <header>
         <h2>Terheidenseweg 350, Breda</h2>
@@ -37,5 +30,12 @@
     </header>
 >>>>>>> 30c87c00e5708d799410313c1e0cb400837df758
 >>>>>>> cc82ed55581d752991af40e59ff3c6ea5f264e89
+------------footer------------
+    <footer>
+        <?php
+        include 'footer.php';
+        ?>
+    </footer>
+
 </body>
 </html>
