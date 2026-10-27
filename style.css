@@ -1,0 +1,55 @@
+:root {
+    --sky: #87ceeb;
+    --sky-light: #e0f4ff;
+    --sky-deep: #1e6fa8;
+    --sun: #ffd166;
+    --cloud: #ffffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: var(--sky-light);
+    color: var(--sky-deep);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    background: var(--sky);
+    color: var(--cloud);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+div {
+    background: var(--cloud);
+    border-left: 6px solid var(--sun);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: var(--sky-deep);
+}
+
+header {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background: var(--sky);
+    color: var(--cloud);
+    border-radius: 8px;
+}
+
+header h2 {
+    color: var(--cloud);
+    margin: 5px 0;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background: var(--sky-deep);
+    color: var(--cloud);
+    text-align: center;
+    border-radius: 8px;
+}

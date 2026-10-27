@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet"  href="styles.css">
 </head>
 <body>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
     <h1>Weer</h1>
     <div>
         <h2>Temperatuur</h2>
@@ -30,7 +29,7 @@
     </header>
 >>>>>>> 30c87c00e5708d799410313c1e0cb400837df758
 >>>>>>> cc82ed55581d752991af40e59ff3c6ea5f264e89
-------------footer------------
+
     <footer>
         <?php
         include 'footer.php';
